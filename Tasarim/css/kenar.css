@@ -1,0 +1,806 @@
+/* KENARLIKLAR*/
+.kenar-yok {
+border-style: none;
+	}
+.kenar-cizgi {
+border-style: solid;
+	}
+.kenar-nokta {
+border-style: dotted;
+	}
+.kenar-kesikcizgi{
+border-style: dashed;
+	}
+.kenar-ciftcizgi{
+border-style: double;
+	}
+
+
+.ust-kenar-yok {
+border-top-style: none;
+	}
+.ust-kenar-cizgi {
+border-top-style: solid;
+	}
+.ust-kenar-nokta {
+border-top-style: dotted;
+	}
+.ust-kenar-kesikcizgi{
+border-top-style: dashed;
+	}
+.ust-kenar-ciftcizgi{
+border-top-style: double;
+	}
+	
+.sol-kenar-yok {
+border-left-style: none;
+	}
+.sol-kenar-cizgi {
+border-left-style: solid;
+	}
+.sol-kenar-nokta {
+border-left-style: dotted;
+	}
+.sol-kenar-kesikcizgi{
+border-left-style: dashed;
+	}
+.sol-kenar-ciftcizgi{
+border-left-style: double;
+	}
+
+.sag-kenar-yok {
+border-right-style: none;
+	}
+.sag-kenar-cizgi {
+border-right-style: solid;
+	}
+.sag-kenar-nokta {
+border-right-style: dotted;
+	}
+.sag-kenar-kesikcizgi{
+border-right-style: dashed;
+	}
+.sag-kenar-ciftcizgi{
+border-right-style: double;
+}
+	
+.alt-kenar-yok {
+border-bottom-style: none;
+	}
+.alt-kenar-cizgi {
+border-bottom-style: solid;
+	}
+.alt-kenar-nokta {
+border-bottom-style: dotted;
+	}
+.alt-kenar-kesikcizgi{
+border-bottom-style: dashed;
+	}
+.alt-kenar-ciftcizgi{
+border-bottom-style: double;
+}
+/* KENARLIKLAR*/
+/* KENAR OVALLİK*/
+.oval-1{
+	border-radius: 1px;
+	}
+.oval-2{
+	border-radius: 2px;
+	}
+.oval-3{
+	border-radius: 3px;
+	}
+.oval-4{
+	border-radius: 4px;
+	}
+.oval-5{
+	border-radius: 5px;
+	}
+.oval-6{
+	border-radius: 6px;
+	}
+.oval-7{
+	border-radius: 7px;
+	}
+.oval-8{
+	border-radius: 8px;
+	}
+.oval-9{
+	border-radius: 9px;
+	}
+.oval-10{
+	border-radius: 10px;
+	}
+.ovalF1{
+	border-radius: 11px;
+	}
+.oval-12{
+	border-radius: 12px;
+	}
+.oval-13{
+	border-radius: 13px;
+	}
+.oval-14{
+	border-radius: 14px;
+	}
+.oval-15{
+	border-radius: 15px;
+	}
+.oval-16{
+	border-radius: 16px;
+	}
+.oval-17{
+	border-radius: 17px;
+	}
+.oval-18{
+	border-radius: 18px;
+	}
+.oval-19{
+	border-radius: 19px;
+	}
+.oval-20{
+	border-radius: 20px;
+	}
+.oval-21{
+	border-radius: 21px;
+	}
+.oval-22{
+	border-radius: 22px;
+	}
+.oval-23{
+	border-radius: 23px;
+	}
+.oval-24{
+	border-radius: 24px;
+	}
+.oval-25{
+	border-radius: 25px;
+	}
+.oval-26{
+	border-radius: 26px;
+	}
+.oval-27{
+	border-radius: 27px;
+	}
+.oval-28{
+	border-radius: 28px;
+	}
+.oval-29{
+	border-radius: 29px;
+	}
+.oval-30{
+	border-radius: 30px;
+	}
+.oval-31{
+	border-radius: 31px;
+	}
+.oval-32{
+	border-radius: 32px;
+	}
+.oval-33{
+	border-radius: 33px;
+	}
+.oval-34{
+	border-radius: 34px;
+	}
+.oval-35{
+	border-radius: 35px;
+	}
+.oval-36{
+	border-radius: 36px;
+	}
+.oval-37{
+	border-radius: 37px;
+	}
+.oval-38{
+	border-radius: 38px;
+	}
+.oval-39{
+	border-radius: 39px;
+	}
+.oval-40{
+	border-radius: 40px;
+	}
+.oval-41{
+	border-radius: 41px;
+	}
+.oval-42{
+	border-radius: 42px;
+	}
+.oval-43{
+	border-radius: 43px;
+	}
+.oval-44{
+	border-radius: 44px;
+	}
+.oval-45{
+	border-radius: 45px;
+	}
+.oval-46{
+	border-radius: 46px;
+	}
+.oval-47{
+	border-radius: 47px;
+	}
+.oval-48{
+	border-radius: 48px;
+	}
+.oval-49{
+	border-radius: 49px;
+	}
+.oval-50{
+	border-radius: 50px;
+	}
+.oval-51{
+	border-radius: 51px;
+	}
+.oval-52{
+	border-radius: 52px;
+	}
+.oval-53{
+	border-radius: 53px;
+	}
+.oval-54{
+	border-radius: 54px;
+	}
+.oval-55{
+	border-radius: 55px;
+	}
+.oval-56{
+	border-radius: 56px;
+	}
+.oval-57{
+	border-radius: 57px;
+	}
+.oval-58{
+	border-radius: 58px;
+	}
+.oval-59{
+	border-radius: 59px;
+	}
+.oval-60{
+	border-radius: 60px;
+	}
+.oval-61{
+	border-radius: 61px;
+	}
+.oval-62{
+	border-radius: 62px;
+	}
+.oval-63{
+	border-radius: 63px;
+	}
+.oval-64{
+	border-radius: 64px;
+	}
+.oval-65{
+	border-radius: 65px;
+	}
+.oval-66{
+	border-radius: 66px;
+	}
+.oval-67{
+	border-radius: 67px;
+	}
+.oval-68{
+	border-radius: 68px;
+	}
+.oval-69{
+	border-radius: 69px;
+	}
+.oval-70{
+	border-radius: bir 0px;
+	}
+.oval-71{
+	border-radius: 71px;
+	}
+.oval-72{
+	border-radius: 73px;
+	}
+.oval-74{
+	border-radius: 74px;
+	}
+.oval-75{
+	border-radius: 75px;
+	}
+.oval-76{
+	border-radius: 76px;
+	}
+.oval-77{
+	border-radius: 77px;
+	}
+.oval-78{
+	border-radius: 78px;
+	}
+.oval-79{
+	border-radius: 79px;
+	}
+.oval-80{
+	border-radius: 80px;
+	}
+.oval-81{
+	border-radius: 81px;
+	}
+.oval-82{
+	border-radius: 82px;
+	}
+.oval-83{
+	border-radius: 83px;
+	}
+.oval-84{
+	border-radius: 84px;
+	}
+.oval-85{
+	border-radius: 85px;
+	}
+.oval-86{
+	border-radius: 86px;
+	}
+.oval-87{
+	border-radius: 87px;
+	}
+.oval-88{
+	border-radius: 88px;
+	}
+.oval-89{
+	border-radius: 89px;
+	}
+.oval-90{
+	border-radius: 90px;
+	}
+.oval-91{
+	border-radius: 91px;
+	}
+.oval-92{
+	border-radius: 92px;
+	}
+.oval-93{
+	border-radius: 93px;
+	}
+.oval-94{
+	border-radius: 94px;
+	}
+.oval-95{
+	border-radius: 95px;
+	}
+.oval-96{
+	border-radius: 96px;
+	}
+.oval-97{
+	border-radius: 97px;
+	}
+.oval-98{
+	border-radius: 98px;
+	}
+.oval-99{
+	border-radius: 99px;
+	}
+.oval-100{
+	border-radius: 100px;
+	}
+	
+
+	
+.oval-y1{
+	border-radius: 1%;
+	}
+.oval-y2{
+	border-radius: 2%;
+	}
+.oval-y3{
+	border-radius: 3%;
+	}
+.oval-y4{
+	border-radius: 4%;
+	}
+.oval-y5{
+	border-radius: 5%;
+	}
+.oval-y6{
+	border-radius: 6%;
+	}
+.oval-y7{
+	border-radius: 7%;
+	}
+.oval-y8{
+	border-radius: 8%;
+	}
+.oval-y9{
+	border-radius: 9%;
+	}
+.oval-y10{
+	border-radius: 10%;
+	}
+.ovalF1{
+	border-radius: 11%;
+	}
+.oval-y12{
+	border-radius: 12%;
+	}
+.oval-y13{
+	border-radius: 13%;
+	}
+.oval-y14{
+	border-radius: 14%;
+	}
+.oval-y15{
+	border-radius: 15%;
+	}
+.oval-y16{
+	border-radius: 16%;
+	}
+.oval-y17{
+	border-radius: 17%;
+	}
+.oval-y18{
+	border-radius: 18%;
+	}
+.oval-y19{
+	border-radius: 19%;
+	}
+.oval-y20{
+	border-radius: 20%;
+	}
+.oval-y21{
+	border-radius: 21%;
+	}
+.oval-y22{
+	border-radius: 22%;
+	}
+.oval-y23{
+	border-radius: 23%;
+	}
+.oval-y24{
+	border-radius: 24%;
+	}
+.oval-y25{
+	border-radius: 25%;
+	}
+.oval-y26{
+	border-radius: 26%;
+	}
+.oval-y27{
+	border-radius: 27%;
+	}
+.oval-y28{
+	border-radius: 28%;
+	}
+.oval-y29{
+	border-radius: 29%;
+	}
+.oval-y30{
+	border-radius: 30%;
+	}
+.oval-y31{
+	border-radius: 31%;
+	}
+.oval-y32{
+	border-radius: 32%;
+	}
+.oval-y33{
+	border-radius: 33%;
+	}
+.oval-y34{
+	border-radius: 34%;
+	}
+.oval-y35{
+	border-radius: 35%;
+	}
+.oval-y36{
+	border-radius: 36%;
+	}
+.oval-y37{
+	border-radius: 37%;
+	}
+.oval-y38{
+	border-radius: 38%;
+	}
+.oval-y39{
+	border-radius: 39%;
+	}
+.oval-y40{
+	border-radius: 40%;
+	}
+.oval-y41{
+	border-radius: 41%;
+	}
+.oval-y42{
+	border-radius: 42%;
+	}
+.oval-y43{
+	border-radius: 43%;
+	}
+.oval-y44{
+	border-radius: 44%;
+	}
+.oval-y45{
+	border-radius: 45%;
+	}
+.oval-y46{
+	border-radius: 46%;
+	}
+.oval-y47{
+	border-radius: 47%;
+	}
+.oval-y48{
+	border-radius: 48%;
+	}
+.oval-y49{
+	border-radius: 49%;
+	}
+.oval-y50{
+	border-radius: 50%;
+	}
+.oval-y51{
+	border-radius: 51%;
+	}
+.oval-y52{
+	border-radius: 52%;
+	}
+.oval-y53{
+	border-radius: 53%;
+	}
+.oval-y54{
+	border-radius: 54%;
+	}
+.oval-y55{
+	border-radius: 55%;
+	}
+.oval-y56{
+	border-radius: 56%;
+	}
+.oval-y57{
+	border-radius: 57%;
+	}
+.oval-y58{
+	border-radius: 58%;
+	}
+.oval-y59{
+	border-radius: 59%;
+	}
+.oval-y60{
+	border-radius: 60%;
+	}
+.oval-y61{
+	border-radius: 61%;
+	}
+.oval-y62{
+	border-radius: 62%;
+	}
+.oval-y63{
+	border-radius: 63%;
+	}
+.oval-y64{
+	border-radius: 64%;
+	}
+.oval-y65{
+	border-radius: 65%;
+	}
+.oval-y66{
+	border-radius: 66%;
+	}
+.oval-y67{
+	border-radius: 67%;
+	}
+.oval-y68{
+	border-radius: 68%;
+	}
+.oval-y69{
+	border-radius: 69%;
+	}
+.oval-y70{
+	border-radius: bir 0%;
+	}
+.oval-y71{
+	border-radius: 71%;
+	}
+.oval-y72{
+	border-radius: 73%;
+	}
+.oval-y74{
+	border-radius: 74%;
+	}
+.oval-y75{
+	border-radius: 75%;
+	}
+.oval-y76{
+	border-radius: 76%;
+	}
+.oval-y77{
+	border-radius: 77%;
+	}
+.oval-y78{
+	border-radius: 78%;
+	}
+.oval-y79{
+	border-radius: 79%;
+	}
+.oval-y80{
+	border-radius: 80%;
+	}
+.oval-y81{
+	border-radius: 81%;
+	}
+.oval-y82{
+	border-radius: 82%;
+	}
+.oval-y83{
+	border-radius: 83%;
+	}
+.oval-y84{
+	border-radius: 84%;
+	}
+.oval-y85{
+	border-radius: 85%;
+	}
+.oval-y86{
+	border-radius: 86%;
+	}
+.oval-y87{
+	border-radius: 87%;
+	}
+.oval-y88{
+	border-radius: 88%;
+	}
+.oval-y89{
+	border-radius: 89%;
+	}
+.oval-y90{
+	border-radius: 90%;
+	}
+.oval-y91{
+	border-radius: 91%;
+	}
+.oval-y92{
+	border-radius: 92%;
+	}
+.oval-y93{
+	border-radius: 93%;
+	}
+.oval-y94{
+	border-radius: 94%;
+	}
+.oval-y95{
+	border-radius: 95%;
+	}
+.oval-y96{
+	border-radius: 96%;
+	}
+.oval-y97{
+	border-radius: 97%;
+	}
+.oval-y98{
+	border-radius: 98%;
+	}
+.oval-y99{
+	border-radius: 99%;
+	}
+.oval-y100{
+	border-radius: 100%;
+	}
+	
+/* KENAR OVALLİK*/
+
+/* KENAR KALINLIK*/
+.ust-kenar1{
+border-top-width: 1px;
+}
+.ust-kenar2{
+border-top-width: 2px;
+}
+.ust-kenar3{
+border-top-width: 3px;
+}
+.ust-kenar4{
+border-top-width: 4px;
+}
+.ust-kenar5{
+border-top-width: 5px;
+}
+.ust-kenar6{
+border-top-width: 6px;
+}
+.ust-kenar7{
+border-top-width: 7px;
+}
+.ust-kenar8{
+border-top-width: 8px;
+}
+.ust-kenar9{
+border-top-width: pc;
+}
+.ust-kenar10{
+border-top-width: 10px;
+}
+.sol-kenar1{
+border-left-width: 1px;
+}
+
+.sol-kenar2{
+border-left-width: 2px;
+}
+.sol-kenar3{
+border-left-width: 3px;
+}
+.sol-kenar4{
+border-left-width: 4px;
+}
+.sol-kenar5{
+border-left-width: 5px;
+}
+.sol-kenar6{
+border-left-width: 6px;
+}
+.sol-kenar7{
+border-left-width: 7px;
+}
+.sol-kenar8{
+border-left-width: 8px;
+}
+.sol-kenar9{
+border-left-width: 9px;
+}
+.sol-kenar10{
+border-left-width: 10px;
+}
+.sag-kenar1{
+border-right-width: 1px;
+}
+.sag-kenar2{
+border-right-width: 2px;
+}
+.sag-kenar3{
+border-right-width: 3px;
+}
+.sag-kenar4{
+border-right-width: 4px;
+}
+.sag-kenar5{
+border-right-width: 5px;
+}
+.sag-kenar6{
+border-right-width: 6px;
+}
+.sag-kenar7{
+border-right-width: 7px;
+}
+.sag-kenar8{
+border-right-width: 8px;
+}
+.sag-kenar9{
+border-right-width: 9px;
+}
+.sag-kenar10{
+border-right-width: 10px;
+}
+.alt-kenar1{
+border-bottom-width: 1px;
+}
+.alt-kenar2{
+border-bottom-width: 2px;
+}
+.alt-kenar3{
+border-bottom-width: 3px;
+}
+.alt-kenar4{
+border-bottom-width: 4px;
+}
+.alt-kenar5{
+border-bottom-width: 5px;
+}
+.alt-kenar6{
+border-bottom-width: 6px;
+}
+.alt-kenar7{
+border-bottom-width: 7px;
+}
+.alt-kenar8{
+border-bottom-width: 8px;
+}
+.alt-kenar9{
+border-bottom-width: 9px;
+}
+.alt-kenar10{
+border-bottom-width: 10px;
+}
+/* KENAR KALINLIK*/

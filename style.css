@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans&display=swap");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+* {
+  font-family: "Montserrat", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  --black: #1c2a39;
+  --gray: #5c6a79;
+  --purple: #4c3db2;
+}
+
+.navbar{
+  height: 120px;
+  width: 80%;
+  margin-left: 10%;
+
+}
+
+.menu{
+  list-style-type:none;
+  display: flex;
+  flex-direction: row;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.menu li{
+  margin: 0 10px;
+}
+
+.arama_motoru{
+  list-style-type:none;
+}
+
+.menu2{
+  list-style-type:none;
+  display: flex;
+  flex-direction: row;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.menu2 li{
+  margin: 0 10px;
+}
+
+
+.basket__icon{
+  position: relative;
+  
+}
+.basket__count{
+  position: absolute;
+  right: -0.7rem;
+  bottom:   -15px;
+  width: 20px;
+  height: 20px;
+  background-color: var(--black);
+  border-radius: 50%;
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-size: 1rem;
+  font-weight: bold;
+
+}
+
+.alt_navbar{
+  height: 120px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+#btn{
+  border-radius: 18px;
+  border-top-left-radius: 18px;
+  border-top-right-radius: 18px;
+  border-bottom-right-radius: 18px;
+  border-bottom-left-radius: 18px;
+ color: white;
+ background-color: darkblue;
+ font-family: inherit;
+
+}
+
+.slider{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+}
+
+.slider img{
+  height: 400px;
+}
+
+.store{
+  width: 80%;
+  margin-left: 10%;
+}

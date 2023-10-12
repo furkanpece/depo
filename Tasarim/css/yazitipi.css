@@ -1,0 +1,3264 @@
+@font-face {
+  font-family: 'ataturk';
+  src: url('../yazitipi/ataturk.eot');
+  src: url('../yazitipi/ataturk.eot?#iefix') format('embedded-opentype'),
+       url('../yazitipi/ataturk.svg#CygnetRound') format('svg'),
+       url('../yazitipi/ataturk.ttf') format('truetype'),
+       url('../yazitipi/ataturk.woff') format('woff'),
+       url('../yazitipi/ataturk.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'elyazisi';
+  src: url('../yazitipi/elyazisi.eot');
+  src: url('../yazitipi/elyazisi.eot?#iefix') format('embedded-opentype'),
+       url('../yazitipi/elyazisi.svg#CygnetRound') format('svg'),
+       url('../yazitipi/elyazisi.ttf') format('truetype'),
+       url('../yazitipi/elyazisi.woff') format('woff'),
+       url('../yazitipi/elyazisi.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'AlysLight';
+  src: url('../yazitipi/AlysLight.eot');
+  src: url('../yazitipi/AlysLight.eot?#iefix') format('embedded-opentype'),
+       url('../yazitipi/AlysLight.svg#CygnetRound') format('svg'),
+       url('../yazitipi/AlysLight.ttf') format('truetype'),
+       url('../yazitipi/AlysLight.woff') format('woff'),
+       url('../yazitipi/AlysLight.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'AnkeCall';
+  src: url('../yazitipi/AnkeCall.eot');
+  src: url('../yazitipi/AnkeCall.eot?#iefix') format('embedded-opentype'),
+       url('../yazitipi/AnkeCall.svg#CygnetRound') format('svg'),
+       url('../yazitipi/AnkeCall.ttf') format('truetype'),
+       url('../yazitipi/AnkeCall.woff') format('woff'),
+       url('../yazitipi/AnkeCall.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ArgBiwSc';
+  src: url('../yazitipi/ArgBiwSc.eot');
+  src: url('../yazitipi/ArgBiwSc.eot?#iefix') format('embedded-opentype'),
+       url('../yazitipi/ArgBiwSc.svg#CygnetRound') format('svg'),
+       url('../yazitipi/ArgBiwSc.ttf') format('truetype'),
+       url('../yazitipi/ArgBiwSc.woff') format('woff'),
+       url('../yazitipi/ArgBiwSc.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Filxgirl';
+  src: url('../yazitipi/Filxgirl.eot');
+  src: url('../yazitipi/Filxgirl.eot?#iefix') format('embedded-opentype'),
+       url('../yazitipi/Filxgirl.svg#CygnetRound') format('svg'),
+       url('../yazitipi/Filxgirl.ttf') format('truetype'),
+       url('../yazitipi/Filxgirl.woff') format('woff'),
+       url('../yazitipi/Filxgirl.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'FLbrsa1';
+  src: url('../yazitipi/FLbrsa1.eot');
+  src: url('../yazitipi/FLbrsa1.eot?#iefix') format('embedded-opentype'),
+       url('../yazitipi/FLbrsa1.svg#CygnetRound') format('svg'),
+       url('../yazitipi/FLbrsa1.ttf') format('truetype'),
+       url('../yazitipi/FLbrsa1.woff') format('woff'),
+       url('../yazitipi/FLbrsa1.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'LEVIBRUSH';
+  src: url('../yazitipi/LEVIBRUSH.eot');
+  src: url('../yazitipi/LEVIBRUSH.eot?#iefix') format('embedded-opentype'),
+       url('../yazitipi/LEVIBRUSH.svg#CygnetRound') format('svg'),
+       url('../yazitipi/LEVIBRUSH.ttf') format('truetype'),
+       url('../yazitipi/LEVIBRUSH.woff') format('woff'),
+       url('../yazitipi/LEVIBRUSH.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Moonstar';
+  src: url('../yazitipi/Moonstar.eot');
+  src: url('../yazitipi/Moonstar.eot?#iefix') format('embedded-opentype'),
+       url('../yazitipi/Moonstar.svg#CygnetRound') format('svg'),
+       url('../yazitipi/Moonstar.ttf') format('truetype'),
+       url('../yazitipi/Moonstar.woff') format('woff'),
+       url('../yazitipi/Moonstar.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Ornamental';
+  src: url('../yazitipi/Ornamental.eot');
+  src: url('../yazitipi/Ornamental.eot?#iefix') format('embedded-opentype'),
+       url('../yazitipi/Ornamental.svg#CygnetRound') format('svg'),
+       url('../yazitipi/Ornamental.ttf') format('truetype'),
+       url('../yazitipi/Ornamental.woff') format('woff'),
+       url('../yazitipi/Ornamental.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'SCRIPTIN';
+  src: url('../yazitipi/SCRIPTIN.eot');
+  src: url('../yazitipi/SCRIPTIN.eot?#iefix') format('embedded-opentype'),
+       url('../yazitipi/SCRIPTIN.svg#CygnetRound') format('svg'),
+       url('../yazitipi/SCRIPTIN.ttf') format('truetype'),
+       url('../yazitipi/SCRIPTIN.woff') format('woff'),
+       url('../yazitipi/SCRIPTIN.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'carolingia';
+  src: url('../yazitipi/carolingia.eot');
+  src: url('../yazitipi/carolingia.eot?#iefix') format('embedded-opentype'),
+       url('../yazitipi/carolingia.svg#CygnetRound') format('svg'),
+       url('../yazitipi/carolingia.ttf') format('truetype'),
+       url('../yazitipi/carolingia.woff') format('woff'),
+       url('../yazitipi/carolingia.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'DISKUSM';
+  src: url('../yazitipi/DISKUSM.eot');
+  src: url('../yazitipi/DISKUSM.eot?#iefix') format('embedded-opentype'),
+       url('../yazitipi/DISKUSM.svg#CygnetRound') format('svg'),
+       url('../yazitipi/DISKUSM.ttf') format('truetype'),
+       url('../yazitipi/DISKUSM.woff') format('woff'),
+       url('../yazitipi/DISKUSM.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EmbassyBT';
+  src: url('../yazitipi/EmbassyBT.eot');
+  src: url('../yazitipi/EmbassyBT.eot?#iefix') format('embedded-opentype'),
+       url('../yazitipi/EmbassyBT.svg#CygnetRound') format('svg'),
+       url('../yazitipi/EmbassyBT.ttf') format('truetype'),
+       url('../yazitipi/EmbassyBT.woff') format('woff'),
+       url('../yazitipi/EmbassyBT.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'GESSELE';
+  src: url('../yazitipi/GESSELE.eot');
+  src: url('../yazitipi/GESSELE.eot?#iefix') format('embedded-opentype'),
+       url('../yazitipi/GESSELE.svg#CygnetRound') format('svg'),
+       url('../yazitipi/GESSELE.ttf') format('truetype'),
+       url('../yazitipi/GESSELE.woff') format('woff'),
+       url('../yazitipi/GESSELE.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+.ataturk {
+	font-family: "ataturk";
+	}
+.elyazisi {
+	font-family: "elyazisi";
+	}
+.alyslight{
+font-family: "AlysLight";
+}
+.ankecall{
+font-family: "AnkeCall";
+}
+.argbiwsc{
+font-family: "ArgBiwSc";
+}
+.filxgirl {
+font-family: "Filxgirl";
+}
+.flbrsa1 {
+font-family: "FLbrsa1";
+}
+.levibrush {
+font-family: "LEVIBRUSH";
+}
+.moonstar {
+font-family: "Moonstar";
+}
+.ornamental {
+font-family: "Ornamental";
+}
+.scriptin {
+font-family: "SCRIPTIN";
+}
+.carolingia {
+font-family: "carolingia";
+}
+.diskusm{
+font-family: "DISKUSM";
+}
+.embassybt {
+font-family: "EmbassyBT";
+}
+.gessele {
+font-family: "GESSELE";
+}
+
+.normalyazi {
+	font-style: normal;
+	}
+.egikyazi {
+	font-style: italic;
+	}
+.oblikyazi {
+	font-style: oblique;
+	}
+
+.altcizgili {
+text-decoration: underline;
+}
+.ustcizgili {
+text-decoration: overline;
+}
+.ustucizgili {
+text-decoration: line-through;
+}
+
+.yazikalin100 {
+	font-weight: 100;
+	}
+.yazikalin200 {
+	font-weight: 200;
+	}
+.yazikalin300 {
+	font-weight: 300;
+	}
+.yazikalin400 {
+	font-weight: 400;
+	}
+.yazikalin500 {
+	font-weight: 500;
+	}
+.yazikalin600 {
+	font-weight: 600;
+	}
+.yazikalin700 {
+	font-weight: 700;
+	}
+.yazikalin800 {
+	font-weight: 800;
+	}
+.yazikalin900 {
+	font-weight: 900;
+	}
+.yazikalin1000 {
+	font-weight: 1000;
+	}
+
+.yazi1 {
+	font-size: 1px;
+}
+.yazi2 {
+	font-size: 2px;
+}
+.yazi3 {
+	font-size: 3px;
+}
+.yazi4 {
+	font-size: 4px;
+}
+.yazi5 {
+	font-size: 5px;
+}
+.yazi6 {
+	font-size: 6px;
+}
+.yazi7 {
+	font-size: 7px;
+}
+.yazi8 {
+	font-size: 8px;
+}
+.yazi9 {
+	font-size: 9px;
+}
+.yazi10 {
+	font-size: 10px;
+}
+.yazi11 {
+	font-size: 11px;
+}
+.yazi12 {
+	font-size: 12px;
+}
+.yazi13 {
+	font-size: 13px;
+}
+.yazi14 {
+	font-size: 14px;
+}
+.yazi15 {
+	font-size: 15px;
+}
+.yazi16 {
+	font-size: 16px;
+}
+.yazi17 {
+	font-size: 17px;
+}
+.yazi18 {
+	font-size: 18px;
+}
+.yazi19 {
+	font-size: 19px;
+}
+.yazi20 {
+	font-size: 20px;
+}
+.yazi21 {
+	font-size: 21px;
+}
+.yazi22 {
+	font-size: 22px;
+}
+.yazi23 {
+	font-size: 23px;
+}
+.yazi24 {
+	font-size: 24px;
+}
+.yazi25 {
+	font-size: 25px;
+}
+.yazi26 {
+	font-size: 26px;
+}
+.yazi27 {
+	font-size: 27px;
+}
+.yazi28 {
+	font-size: 28px;
+}
+.yazi29 {
+	font-size: 29px;
+}
+.yazi30 {
+	font-size: 30px;
+}
+.yazi31 {
+	font-size: 31px;
+}
+.yazi32 {
+	font-size: 32px;
+}
+.yazi33 {
+	font-size: 33px;
+}
+.yazi34 {
+	font-size: 34px;
+}
+.yazi35 {
+	font-size: 35px;
+}
+.yazi36 {
+	font-size: 36px;
+}
+.yazi37 {
+	font-size: 37px;
+}
+.yazi38 {
+	font-size: 38px;
+}
+.yazi39 {
+	font-size: 39px;
+}
+.yazi40 {
+	font-size: 40px;
+}
+.yazi41 {
+	font-size: 41px;
+}
+.yazi42 {
+	font-size: 42px;
+}
+.yazi43 {
+	font-size: 43px;
+}
+.yazi44 {
+	font-size: 44px;
+}
+.yazi45 {
+	font-size: 45px;
+}
+.yazi46 {
+	font-size: 46px;
+}
+.yazi47 {
+	font-size: 47px;
+}
+.yazi48 {
+	font-size: 48px;
+}
+.yazi49 {
+	font-size: 49px;
+}
+.yazi50 {
+	font-size: 50px;
+}
+.yazi51 {
+	font-size: 51px;
+}
+.yazi52 {
+	font-size: 52px;
+}
+.yazi53 {
+	font-size: 53px;
+}
+.yazi54 {
+	font-size: 54px;
+}
+.yazi55 {
+	font-size: 55px;
+}
+.yazi56 {
+	font-size: 56px;
+}
+.yazi57 {
+	font-size: 57px;
+}
+.yazi58 {
+	font-size: 58px;
+}
+.yazi59 {
+	font-size: 59px;
+}
+.yazi60 {
+	font-size: 60px;
+}
+.yazi61 {
+	font-size: 61px;
+}
+.yazi62 {
+	font-size: 62px;
+}
+.yazi63 {
+	font-size: 63px;
+}
+.yazi64 {
+	font-size: 64px;
+}
+.yazi65 {
+	font-size: 65px;
+}
+.yazi66 {
+	font-size: 66px;
+}
+.yazi67 {
+	font-size: 67px;
+}
+.yazi68 {
+	font-size: 68px;
+}
+.yazi69 {
+	font-size: 69px;
+}
+.yazi70 {
+	font-size: 70px;
+}
+.yazi71 {
+	font-size: 71px;
+}
+.yazi72 {
+	font-size: 72px;
+}
+.yazi73 {
+	font-size: 73px;
+}
+.yazi74 {
+	font-size: 74px;
+}
+.yazi75 {
+	font-size: 75px;
+}
+.yazi76 {
+	font-size: 76px;
+}
+.yazi77 {
+	font-size: 77px;
+}
+.yazi78 {
+	font-size: 78px;
+}
+.yazi79 {
+	font-size: 79px;
+}
+.yazi80 {
+	font-size: 80px;
+}
+.yazi81 {
+	font-size: 81px;
+}
+.yazi82 {
+	font-size: 82px;
+}
+.yazi83 {
+	font-size: 83px;
+}
+.yazi84 {
+	font-size: 84px;
+}
+.yazi85 {
+	font-size: 85px;
+}
+.yazi86 {
+	font-size: 86px;
+}
+.yazi87 {
+	font-size: 87px;
+}
+.yazi88 {
+	font-size: 88px;
+}
+.yazi89 {
+	font-size: 89px;
+}
+.yazi90 {
+	font-size: 90px;
+}
+.yazi91 {
+	font-size: 91px;
+}
+.yazi92 {
+	font-size: 92px;
+}
+.yazi93 {
+	font-size: 93px;
+}
+.yazi94 {
+	font-size: 94px;
+}
+.yazi95 {
+	font-size: 95px;
+}
+.yazi96 {
+	font-size: 96px;
+}
+.yazi97 {
+	font-size: 97px;
+}
+.yazi98 {
+	font-size: 98px;
+}
+.yazi99 {
+	font-size: 99px;
+}
+.yazi100 {
+	font-size: 100px;
+}
+.yazi101 {
+	font-size: 101px;
+}
+.yazi102 {
+	font-size: 102px;
+}
+.yazi103 {
+	font-size: 103px;
+}
+.yazi104 {
+	font-size: 104px;
+}
+.yazi105 {
+	font-size: 105px;
+}
+.yazi106 {
+	font-size: 106px;
+}
+.yazi107 {
+	font-size: 107px;
+}
+.yazi108 {
+	font-size: 108px;
+}
+.yazi109 {
+	font-size: 109px;
+}
+.yazi110 {
+	font-size: 110px;
+}
+.yazi111 {
+	font-size: 111px;
+}
+.yazi112 {
+	font-size: 112px;
+}
+.yazi113 {
+	font-size: 113px;
+}
+.yazi114 {
+	font-size: 114px;
+}
+.yazi115 {
+	font-size: 115px;
+}
+.yazi116 {
+	font-size: 116px;
+}
+.yazi117 {
+	font-size: 117px;
+}
+.yazi118 {
+	font-size: 118px;
+}
+.yazi119 {
+	font-size: 119px;
+}
+.yazi120 {
+	font-size: 120px;
+}
+.yazi121 {
+	font-size: 121px;
+}
+.yazi122 {
+	font-size: 122px;
+}
+.yazi123 {
+	font-size: 123px;
+}
+.yazi124 {
+	font-size: 124px;
+}
+.yazi125 {
+	font-size: 125px;
+}
+.yazi126 {
+	font-size: 126px;
+}
+.yazi127 {
+	font-size: 127px;
+}
+.yazi128 {
+	font-size: 128px;
+}
+.yazi129 {
+	font-size: 129px;
+}
+.yazi130 {
+	font-size: 130px;
+}
+.yazi131 {
+	font-size: 131px;
+}
+.yazi132 {
+	font-size: 132px;
+}
+.yazi133 {
+	font-size: 133px;
+}
+.yazi134 {
+	font-size: 134px;
+}
+.yazi135 {
+	font-size: 135px;
+}
+.yazi136 {
+	font-size: 136px;
+}
+.yazi137 {
+	font-size: 137px;
+}
+.yazi138 {
+	font-size: 138px;
+}
+.yazi139 {
+	font-size: 139px;
+}
+.yazi140 {
+	font-size: 140px;
+}
+.yazi141 {
+	font-size: 141px;
+}
+.yazi142 {
+	font-size: 142px;
+}
+.yazi143 {
+	font-size: 143px;
+}
+.yazi144 {
+	font-size: 144px;
+}
+.yazi145 {
+	font-size: 145px;
+}
+.yazi146 {
+	font-size: 146px;
+}
+.yazi147 {
+	font-size: 147px;
+}
+.yazi148 {
+	font-size: 148px;
+}
+.yazi149 {
+	font-size: 149px;
+}
+.yazi150 {
+	font-size: 150px;
+}
+.yazi151 {
+	font-size: 151px;
+}
+.yazi152 {
+	font-size: 152px;
+}
+.yazi153 {
+	font-size: 153px;
+}
+.yazi154 {
+	font-size: 154px;
+}
+.yazi155 {
+	font-size: 155px;
+}
+.yazi156 {
+	font-size: 156px;
+}
+.yazi157 {
+	font-size: 157px;
+}
+.yazi158 {
+	font-size: 158px;
+}
+.yazi159 {
+	font-size: 159px;
+}
+.yazi160 {
+	font-size: 160px;
+}
+.yazi161 {
+	font-size: 161px;
+}
+.yazi162 {
+	font-size: 162px;
+}
+.yazi163 {
+	font-size: 163px;
+}
+.yazi164 {
+	font-size: 164px;
+}
+.yazi165 {
+	font-size: 165px;
+}
+.yazi166 {
+	font-size: 166px;
+}
+.yazi167 {
+	font-size: 167px;
+}
+.yazi168 {
+	font-size: 168px;
+}
+.yazi169 {
+	font-size: 169px;
+}
+.yazi170 {
+	font-size: 170px;
+}
+.yazi171 {
+	font-size: 171px;
+}
+.yazi172 {
+	font-size: 172px;
+}
+.yazi173 {
+	font-size: 173px;
+}
+.yazi174 {
+	font-size: 174px;
+}
+.yazi175 {
+	font-size: 175px;
+}
+.yazi176 {
+	font-size: 176px;
+}
+.yazi177 {
+	font-size: 177px;
+}
+.yazi178 {
+	font-size: 178px;
+}
+.yazi179 {
+	font-size: 179px;
+}
+.yazi180 {
+	font-size: 180px;
+}
+.yazi181 {
+	font-size: 181px;
+}
+.yazi182 {
+	font-size: 182px;
+}
+.yazi183 {
+	font-size: 183px;
+}
+.yazi184 {
+	font-size: 184px;
+}
+.yazi185 {
+	font-size: 185px;
+}
+.yazi186 {
+	font-size: 186px;
+}
+.yazi187 {
+	font-size: 187px;
+}
+.yazi188 {
+	font-size: 188px;
+}
+.yazi189 {
+	font-size: 189px;
+}
+.yazi190 {
+	font-size: 190px;
+}
+.yazi191 {
+	font-size: 191px;
+}
+.yazi192 {
+	font-size: 192px;
+}
+.yazi193 {
+	font-size: 193px;
+}
+.yazi194 {
+	font-size: 194px;
+}
+.yazi195 {
+	font-size: 195px;
+}
+.yazi196 {
+	font-size: 196px;
+}
+.yazi197 {
+	font-size: 197px;
+}
+.yazi198 {
+	font-size: 198px;
+}
+.yazi199 {
+	font-size: 199px;
+}
+.yazi200 {
+	font-size: 200px;
+}
+.yazi201 {
+	font-size: 201px;
+}
+.yazi202 {
+	font-size: 202px;
+}
+.yazi203 {
+	font-size: 203px;
+}
+.yazi204 {
+	font-size: 204px;
+}
+.yazi205 {
+	font-size: 205px;
+}
+.yazi206 {
+	font-size: 206px;
+}
+.yazi207 {
+	font-size: 207px;
+}
+.yazi208 {
+	font-size: 208px;
+}
+.yazi209 {
+	font-size: 209px;
+}
+.yazi210 {
+	font-size: 210px;
+}
+.yazi211 {
+	font-size: 211px;
+}
+.yazi212 {
+	font-size: 212px;
+}
+.yazi213 {
+	font-size: 213px;
+}
+.yazi214 {
+	font-size: 214px;
+}
+.yazi215 {
+	font-size: 215px;
+}
+.yazi216 {
+	font-size: 216px;
+}
+.yazi217 {
+	font-size: 217px;
+}
+.yazi218 {
+	font-size: 218px;
+}
+.yazi219 {
+	font-size: 219px;
+}
+.yazi220 {
+	font-size: 220px;
+}
+.yazi221 {
+	font-size: 221px;
+}
+.yazi222 {
+	font-size: 222px;
+}
+.yazi223 {
+	font-size: 223px;
+}
+.yazi224 {
+	font-size: 224px;
+}
+.yazi225 {
+	font-size: 225px;
+}
+.yazi226 {
+	font-size: 226px;
+}
+.yazi227 {
+	font-size: 227px;
+}
+.yazi228 {
+	font-size: 228px;
+}
+.yazi229 {
+	font-size: 229px;
+}
+.yazi230 {
+	font-size: 230px;
+}
+.yazi231 {
+	font-size: 231px;
+}
+.yazi232 {
+	font-size: 232px;
+}
+.yazi233 {
+	font-size: 233px;
+}
+.yazi234 {
+	font-size: 234px;
+}
+.yazi235 {
+	font-size: 235px;
+}
+.yazi236 {
+	font-size: 236px;
+}
+.yazi237 {
+	font-size: 237px;
+}
+.yazi238 {
+	font-size: 238px;
+}
+.yazi239 {
+	font-size: 239px;
+}
+.yazi240 {
+	font-size: 240px;
+}
+.yazi241 {
+	font-size: 241px;
+}
+.yazi242 {
+	font-size: 242px;
+}
+.yazi243 {
+	font-size: 243px;
+}
+.yazi244 {
+	font-size: 244px;
+}
+.yazi245 {
+	font-size: 245px;
+}
+.yazi246 {
+	font-size: 246px;
+}
+.yazi247 {
+	font-size: 247px;
+}
+.yazi248 {
+	font-size: 248px;
+}
+.yazi249 {
+	font-size: 249px;
+}
+.yazi250 {
+	font-size: 250px;
+}
+.yazi251 {
+	font-size: 251px;
+}
+.yazi252 {
+	font-size: 252px;
+}
+.yazi253 {
+	font-size: 253px;
+}
+.yazi254 {
+	font-size: 254px;
+}
+.yazi255 {
+	font-size: 255px;
+}
+.yazi256 {
+	font-size: 256px;
+}
+.yazi257 {
+	font-size: 257px;
+}
+.yazi258 {
+	font-size: 258px;
+}
+.yazi259 {
+	font-size: 259px;
+}
+.yazi260 {
+	font-size: 260px;
+}
+.yazi261 {
+	font-size: 261px;
+}
+.yazi262 {
+	font-size: 262px;
+}
+.yazi263 {
+	font-size: 263px;
+}
+.yazi264 {
+	font-size: 264px;
+}
+.yazi265 {
+	font-size: 265px;
+}
+.yazi266 {
+	font-size: 266px;
+}
+.yazi267 {
+	font-size: 267px;
+}
+.yazi268 {
+	font-size: 268px;
+}
+.yazi269 {
+	font-size: 269px;
+}
+.yazi270 {
+	font-size: 270px;
+}
+.yazi271 {
+	font-size: 271px;
+}
+.yazi272 {
+	font-size: 272px;
+}
+.yazi273 {
+	font-size: 273px;
+}
+.yazi274 {
+	font-size: 274px;
+}
+.yazi275 {
+	font-size: 275px;
+}
+.yazi276 {
+	font-size: 276px;
+}
+.yazi277 {
+	font-size: 277px;
+}
+.yazi278 {
+	font-size: 278px;
+}
+.yazi279 {
+	font-size: 279px;
+}
+.yazi280 {
+	font-size: 280px;
+}
+.yazi281 {
+	font-size: 281px;
+}
+.yazi282 {
+	font-size: 282px;
+}
+.yazi283 {
+	font-size: 283px;
+}
+.yazi284 {
+	font-size: 284px;
+}
+.yazi285 {
+	font-size: 285px;
+}
+.yazi286 {
+	font-size: 286px;
+}
+.yazi287 {
+	font-size: 287px;
+}
+.yazi288 {
+	font-size: 288px;
+}
+.yazi289 {
+	font-size: 289px;
+}
+.yazi290 {
+	font-size: 290px;
+}
+.yazi291 {
+	font-size: 291px;
+}
+.yazi292 {
+	font-size: 292px;
+}
+.yazi293 {
+	font-size: 293px;
+}
+.yazi294 {
+	font-size: 294px;
+}
+.yazi295 {
+	font-size: 295px;
+}
+.yazi296 {
+	font-size: 296px;
+}
+.yazi297 {
+	font-size: 297px;
+}
+.yazi298 {
+	font-size: 298px;
+}
+.yazi299 {
+	font-size: 299px;
+}
+.yazi300 {
+	font-size: 300px;
+}
+.yazi301 {
+	font-size: 301px;
+}
+.yazi302 {
+	font-size: 302px;
+}
+.yazi303 {
+	font-size: 303px;
+}
+.yazi304 {
+	font-size: 304px;
+}
+.yazi305 {
+	font-size: 305px;
+}
+.yazi306 {
+	font-size: 306px;
+}
+.yazi307 {
+	font-size: 307px;
+}
+.yazi308 {
+	font-size: 308px;
+}
+.yazi309 {
+	font-size: 309px;
+}
+.yazi310 {
+	font-size: 310px;
+}
+.yazi311 {
+	font-size: 311px;
+}
+.yazi312 {
+	font-size: 312px;
+}
+.yazi313 {
+	font-size: 313px;
+}
+.yazi314 {
+	font-size: 314px;
+}
+.yazi315 {
+	font-size: 315px;
+}
+.yazi316 {
+	font-size: 316px;
+}
+.yazi317 {
+	font-size: 317px;
+}
+.yazi318 {
+	font-size: 318px;
+}
+.yazi319 {
+	font-size: 319px;
+}
+.yazi320 {
+	font-size: 320px;
+}
+.yazi321 {
+	font-size: 321px;
+}
+.yazi322 {
+	font-size: 322px;
+}
+.yazi323 {
+	font-size: 323px;
+}
+.yazi324 {
+	font-size: 324px;
+}
+.yazi325 {
+	font-size: 325px;
+}
+.yazi326 {
+	font-size: 326px;
+}
+.yazi327 {
+	font-size: 327px;
+}
+.yazi328 {
+	font-size: 328px;
+}
+.yazi329 {
+	font-size: 329px;
+}
+.yazi330 {
+	font-size: 330px;
+}
+.yazi331 {
+	font-size: 331px;
+}
+.yazi332 {
+	font-size: 332px;
+}
+.yazi333 {
+	font-size: 333px;
+}
+.yazi334 {
+	font-size: 334px;
+}
+.yazi335 {
+	font-size: 335px;
+}
+.yazi336 {
+	font-size: 336px;
+}
+.yazi337 {
+	font-size: 337px;
+}
+.yazi338 {
+	font-size: 338px;
+}
+.yazi339 {
+	font-size: 339px;
+}
+.yazi340 {
+	font-size: 340px;
+}
+.yazi341 {
+	font-size: 341px;
+}
+.yazi342 {
+	font-size: 342px;
+}
+.yazi343 {
+	font-size: 343px;
+}
+.yazi344 {
+	font-size: 344px;
+}
+.yazi345 {
+	font-size: 345px;
+}
+.yazi346 {
+	font-size: 346px;
+}
+.yazi347 {
+	font-size: 347px;
+}
+.yazi348 {
+	font-size: 348px;
+}
+.yazi349 {
+	font-size: 349px;
+}
+.yazi350 {
+	font-size: 350px;
+}
+.yazi351 {
+	font-size: 351px;
+}
+.yazi352 {
+	font-size: 352px;
+}
+.yazi353 {
+	font-size: 353px;
+}
+.yazi354 {
+	font-size: 354px;
+}
+.yazi355 {
+	font-size: 355px;
+}
+.yazi356 {
+	font-size: 356px;
+}
+.yazi357 {
+	font-size: 357px;
+}
+.yazi358 {
+	font-size: 358px;
+}
+.yazi359 {
+	font-size: 359px;
+}
+.yazi360 {
+	font-size: 360px;
+}
+.yazi361 {
+	font-size: 361px;
+}
+.yazi362 {
+	font-size: 362px;
+}
+.yazi363 {
+	font-size: 363px;
+}
+.yazi364 {
+	font-size: 364px;
+}
+.yazi365 {
+	font-size: 365px;
+}
+.yazi366 {
+	font-size: 366px;
+}
+.yazi367 {
+	font-size: 367px;
+}
+.yazi368 {
+	font-size: 368px;
+}
+.yazi369 {
+	font-size: 369px;
+}
+.yazi370 {
+	font-size: 370px;
+}
+.yazi371 {
+	font-size: 371px;
+}
+.yazi372 {
+	font-size: 372px;
+}
+.yazi373 {
+	font-size: 373px;
+}
+.yazi374 {
+	font-size: 374px;
+}
+.yazi375 {
+	font-size: 375px;
+}
+.yazi376 {
+	font-size: 376px;
+}
+.yazi377 {
+	font-size: 377px;
+}
+.yazi378 {
+	font-size: 378px;
+}
+.yazi379 {
+	font-size: 379px;
+}
+.yazi380 {
+	font-size: 380px;
+}
+.yazi381 {
+	font-size: 381px;
+}
+.yazi382 {
+	font-size: 382px;
+}
+.yazi383 {
+	font-size: 383px;
+}
+.yazi384 {
+	font-size: 384px;
+}
+.yazi385 {
+	font-size: 385px;
+}
+.yazi386 {
+	font-size: 386px;
+}
+.yazi387 {
+	font-size: 387px;
+}
+.yazi388 {
+	font-size: 388px;
+}
+.yazi389 {
+	font-size: 389px;
+}
+.yazi390 {
+	font-size: 390px;
+}
+.yazi391 {
+	font-size: 391px;
+}
+.yazi392 {
+	font-size: 392px;
+}
+.yazi393 {
+	font-size: 393px;
+}
+.yazi394 {
+	font-size: 394px;
+}
+.yazi395 {
+	font-size: 395px;
+}
+.yazi396 {
+	font-size: 396px;
+}
+.yazi397 {
+	font-size: 397px;
+}
+.yazi398 {
+	font-size: 398px;
+}
+.yazi399 {
+	font-size: 399px;
+}
+.yazi400 {
+	font-size: 400px;
+}
+.yazi401 {
+	font-size: 401px;
+}
+.yazi402 {
+	font-size: 402px;
+}
+.yazi403 {
+	font-size: 403px;
+}
+.yazi404 {
+	font-size: 404px;
+}
+.yazi405 {
+	font-size: 405px;
+}
+.yazi406 {
+	font-size: 406px;
+}
+.yazi407 {
+	font-size: 407px;
+}
+.yazi408 {
+	font-size: 408px;
+}
+.yazi409 {
+	font-size: 409px;
+}
+.yazi410 {
+	font-size: 410px;
+}
+.yazi411 {
+	font-size: 411px;
+}
+.yazi412 {
+	font-size: 412px;
+}
+.yazi413 {
+	font-size: 413px;
+}
+.yazi414 {
+	font-size: 414px;
+}
+.yazi415 {
+	font-size: 415px;
+}
+.yazi416 {
+	font-size: 416px;
+}
+.yazi417 {
+	font-size: 417px;
+}
+.yazi418 {
+	font-size: 418px;
+}
+.yazi419 {
+	font-size: 419px;
+}
+.yazi420 {
+	font-size: 420px;
+}
+.yazi421 {
+	font-size: 421px;
+}
+.yazi422 {
+	font-size: 422px;
+}
+.yazi423 {
+	font-size: 423px;
+}
+.yazi424 {
+	font-size: 424px;
+}
+.yazi425 {
+	font-size: 425px;
+}
+.yazi426 {
+	font-size: 426px;
+}
+.yazi427 {
+	font-size: 427px;
+}
+.yazi428 {
+	font-size: 428px;
+}
+.yazi429 {
+	font-size: 429px;
+}
+.yazi430 {
+	font-size: 430px;
+}
+.yazi431 {
+	font-size: 431px;
+}
+.yazi432 {
+	font-size: 432px;
+}
+.yazi433 {
+	font-size: 433px;
+}
+.yazi434 {
+	font-size: 434px;
+}
+.yazi435 {
+	font-size: 435px;
+}
+.yazi436 {
+	font-size: 436px;
+}
+.yazi437 {
+	font-size: 437px;
+}
+.yazi438 {
+	font-size: 438px;
+}
+.yazi439 {
+	font-size: 439px;
+}
+.yazi440 {
+	font-size: 440px;
+}
+.yazi441 {
+	font-size: 441px;
+}
+.yazi442 {
+	font-size: 442px;
+}
+.yazi443 {
+	font-size: 443px;
+}
+.yazi444 {
+	font-size: 444px;
+}
+.yazi445 {
+	font-size: 445px;
+}
+.yazi446 {
+	font-size: 446px;
+}
+.yazi447 {
+	font-size: 447px;
+}
+.yazi448 {
+	font-size: 448px;
+}
+.yazi449 {
+	font-size: 449px;
+}
+.yazi450 {
+	font-size: 450px;
+}
+.yazi451 {
+	font-size: 451px;
+}
+.yazi452 {
+	font-size: 452px;
+}
+.yazi453 {
+	font-size: 453px;
+}
+.yazi454 {
+	font-size: 454px;
+}
+.yazi455 {
+	font-size: 455px;
+}
+.yazi456 {
+	font-size: 456px;
+}
+.yazi457 {
+	font-size: 457px;
+}
+.yazi458 {
+	font-size: 458px;
+}
+.yazi459 {
+	font-size: 459px;
+}
+.yazi460 {
+	font-size: 460px;
+}
+.yazi461 {
+	font-size: 461px;
+}
+.yazi462 {
+	font-size: 462px;
+}
+.yazi463 {
+	font-size: 463px;
+}
+.yazi464 {
+	font-size: 464px;
+}
+.yazi465 {
+	font-size: 465px;
+}
+.yazi466 {
+	font-size: 466px;
+}
+.yazi467 {
+	font-size: 467px;
+}
+.yazi468 {
+	font-size: 468px;
+}
+.yazi469 {
+	font-size: 469px;
+}
+.yazi470 {
+	font-size: 470px;
+}
+.yazi471 {
+	font-size: 471px;
+}
+.yazi472 {
+	font-size: 472px;
+}
+.yazi473 {
+	font-size: 473px;
+}
+.yazi474 {
+	font-size: 474px;
+}
+.yazi475 {
+	font-size: 475px;
+}
+.yazi476 {
+	font-size: 476px;
+}
+.yazi477 {
+	font-size: 477px;
+}
+.yazi478 {
+	font-size: 478px;
+}
+.yazi479 {
+	font-size: 479px;
+}
+.yazi480 {
+	font-size: 480px;
+}
+.yazi481 {
+	font-size: 481px;
+}
+.yazi482 {
+	font-size: 482px;
+}
+.yazi483 {
+	font-size: 483px;
+}
+.yazi484 {
+	font-size: 484px;
+}
+.yazi485 {
+	font-size: 485px;
+}
+.yazi486 {
+	font-size: 486px;
+}
+.yazi487 {
+	font-size: 487px;
+}
+.yazi488 {
+	font-size: 488px;
+}
+.yazi489 {
+	font-size: 489px;
+}
+.yazi490 {
+	font-size: 490px;
+}
+.yazi491 {
+	font-size: 491px;
+}
+.yazi492 {
+	font-size: 492px;
+}
+.yazi493 {
+	font-size: 493px;
+}
+.yazi494 {
+	font-size: 494px;
+}
+.yazi495 {
+	font-size: 495px;
+}
+.yazi496 {
+	font-size: 496px;
+}
+.yazi497 {
+	font-size: 497px;
+}
+.yazi498 {
+	font-size: 498px;
+}
+.yazi499 {
+	font-size: 499px;
+}
+.yazi500 {
+	font-size: 500px;
+}
+.yazi501 {
+	font-size: 501px;
+}
+.yazi502 {
+	font-size: 502px;
+}
+.yazi503 {
+	font-size: 503px;
+}
+.yazi504 {
+	font-size: 504px;
+}
+.yazi505 {
+	font-size: 505px;
+}
+.yazi506 {
+	font-size: 506px;
+}
+.yazi507 {
+	font-size: 507px;
+}
+.yazi508 {
+	font-size: 508px;
+}
+.yazi509 {
+	font-size: 509px;
+}
+.yazi510 {
+	font-size: 510px;
+}
+.yazi511 {
+	font-size: 511px;
+}
+.yazi512 {
+	font-size: 512px;
+}
+.yazi513 {
+	font-size: 513px;
+}
+.yazi514 {
+	font-size: 514px;
+}
+.yazi515 {
+	font-size: 515px;
+}
+.yazi516 {
+	font-size: 516px;
+}
+.yazi517 {
+	font-size: 517px;
+}
+.yazi518 {
+	font-size: 518px;
+}
+.yazi519 {
+	font-size: 519px;
+}
+.yazi520 {
+	font-size: 520px;
+}
+.yazi521 {
+	font-size: 521px;
+}
+.yazi522 {
+	font-size: 522px;
+}
+.yazi523 {
+	font-size: 523px;
+}
+.yazi524 {
+	font-size: 524px;
+}
+.yazi525 {
+	font-size: 525px;
+}
+.yazi526 {
+	font-size: 526px;
+}
+.yazi527 {
+	font-size: 527px;
+}
+.yazi528 {
+	font-size: 528px;
+}
+.yazi529 {
+	font-size: 529px;
+}
+.yazi530 {
+	font-size: 530px;
+}
+.yazi531 {
+	font-size: 531px;
+}
+.yazi532 {
+	font-size: 532px;
+}
+.yazi533 {
+	font-size: 533px;
+}
+.yazi534 {
+	font-size: 534px;
+}
+.yazi535 {
+	font-size: 535px;
+}
+.yazi536 {
+	font-size: 536px;
+}
+.yazi537 {
+	font-size: 537px;
+}
+.yazi538 {
+	font-size: 538px;
+}
+.yazi539 {
+	font-size: 539px;
+}
+.yazi540 {
+	font-size: 540px;
+}
+.yazi541 {
+	font-size: 541px;
+}
+.yazi542 {
+	font-size: 542px;
+}
+.yazi543 {
+	font-size: 543px;
+}
+.yazi544 {
+	font-size: 544px;
+}
+.yazi545 {
+	font-size: 545px;
+}
+.yazi546 {
+	font-size: 546px;
+}
+.yazi547 {
+	font-size: 547px;
+}
+.yazi548 {
+	font-size: 548px;
+}
+.yazi549 {
+	font-size: 549px;
+}
+.yazi550 {
+	font-size: 550px;
+}
+.yazi551 {
+	font-size: 551px;
+}
+.yazi552 {
+	font-size: 552px;
+}
+.yazi553 {
+	font-size: 553px;
+}
+.yazi554 {
+	font-size: 554px;
+}
+.yazi555 {
+	font-size: 555px;
+}
+.yazi556 {
+	font-size: 556px;
+}
+.yazi557 {
+	font-size: 557px;
+}
+.yazi558 {
+	font-size: 558px;
+}
+.yazi559 {
+	font-size: 559px;
+}
+.yazi560 {
+	font-size: 560px;
+}
+.yazi561 {
+	font-size: 561px;
+}
+.yazi562 {
+	font-size: 562px;
+}
+.yazi563 {
+	font-size: 563px;
+}
+.yazi564 {
+	font-size: 564px;
+}
+.yazi565 {
+	font-size: 565px;
+}
+.yazi566 {
+	font-size: 566px;
+}
+.yazi567 {
+	font-size: 567px;
+}
+.yazi568 {
+	font-size: 568px;
+}
+.yazi569 {
+	font-size: 569px;
+}
+.yazi570 {
+	font-size: 570px;
+}
+.yazi571 {
+	font-size: 571px;
+}
+.yazi572 {
+	font-size: 572px;
+}
+.yazi573 {
+	font-size: 573px;
+}
+.yazi574 {
+	font-size: 574px;
+}
+.yazi575 {
+	font-size: 575px;
+}
+.yazi576 {
+	font-size: 576px;
+}
+.yazi577 {
+	font-size: 577px;
+}
+.yazi578 {
+	font-size: 578px;
+}
+.yazi579 {
+	font-size: 579px;
+}
+.yazi580 {
+	font-size: 580px;
+}
+.yazi581 {
+	font-size: 581px;
+}
+.yazi582 {
+	font-size: 582px;
+}
+.yazi583 {
+	font-size: 583px;
+}
+.yazi584 {
+	font-size: 584px;
+}
+.yazi585 {
+	font-size: 585px;
+}
+.yazi586 {
+	font-size: 586px;
+}
+.yazi587 {
+	font-size: 587px;
+}
+.yazi588 {
+	font-size: 588px;
+}
+.yazi589 {
+	font-size: 589px;
+}
+.yazi590 {
+	font-size: 590px;
+}
+.yazi591 {
+	font-size: 591px;
+}
+.yazi592 {
+	font-size: 592px;
+}
+.yazi593 {
+	font-size: 593px;
+}
+.yazi594 {
+	font-size: 594px;
+}
+.yazi595 {
+	font-size: 595px;
+}
+.yazi596 {
+	font-size: 596px;
+}
+.yazi597 {
+	font-size: 597px;
+}
+.yazi598 {
+	font-size: 598px;
+}
+.yazi599 {
+	font-size: 599px;
+}
+.yazi600 {
+	font-size: 600px;
+}
+.yazi601 {
+	font-size: 601px;
+}
+.yazi602 {
+	font-size: 602px;
+}
+.yazi603 {
+	font-size: 603px;
+}
+.yazi604 {
+	font-size: 604px;
+}
+.yazi605 {
+	font-size: 605px;
+}
+.yazi606 {
+	font-size: 606px;
+}
+.yazi607 {
+	font-size: 607px;
+}
+.yazi608 {
+	font-size: 608px;
+}
+.yazi609 {
+	font-size: 609px;
+}
+.yazi610 {
+	font-size: 610px;
+}
+.yazi611 {
+	font-size: 611px;
+}
+.yazi612 {
+	font-size: 612px;
+}
+.yazi613 {
+	font-size: 613px;
+}
+.yazi614 {
+	font-size: 614px;
+}
+.yazi615 {
+	font-size: 615px;
+}
+.yazi616 {
+	font-size: 616px;
+}
+.yazi617 {
+	font-size: 617px;
+}
+.yazi618 {
+	font-size: 618px;
+}
+.yazi619 {
+	font-size: 619px;
+}
+.yazi620 {
+	font-size: 620px;
+}
+.yazi621 {
+	font-size: 621px;
+}
+.yazi622 {
+	font-size: 622px;
+}
+.yazi623 {
+	font-size: 623px;
+}
+.yazi624 {
+	font-size: 624px;
+}
+.yazi625 {
+	font-size: 625px;
+}
+.yazi626 {
+	font-size: 626px;
+}
+.yazi627 {
+	font-size: 627px;
+}
+.yazi628 {
+	font-size: 628px;
+}
+.yazi629 {
+	font-size: 629px;
+}
+.yazi630 {
+	font-size: 630px;
+}
+.yazi631 {
+	font-size: 631px;
+}
+.yazi632 {
+	font-size: 632px;
+}
+.yazi633 {
+	font-size: 633px;
+}
+.yazi634 {
+	font-size: 634px;
+}
+.yazi635 {
+	font-size: 635px;
+}
+.yazi636 {
+	font-size: 636px;
+}
+.yazi637 {
+	font-size: 637px;
+}
+.yazi638 {
+	font-size: 638px;
+}
+.yazi639 {
+	font-size: 639px;
+}
+.yazi640 {
+	font-size: 640px;
+}
+.yazi641 {
+	font-size: 641px;
+}
+.yazi642 {
+	font-size: 642px;
+}
+.yazi643 {
+	font-size: 643px;
+}
+.yazi644 {
+	font-size: 644px;
+}
+.yazi645 {
+	font-size: 645px;
+}
+.yazi646 {
+	font-size: 646px;
+}
+.yazi647 {
+	font-size: 647px;
+}
+.yazi648 {
+	font-size: 648px;
+}
+.yazi649 {
+	font-size: 649px;
+}
+.yazi650 {
+	font-size: 650px;
+}
+.yazi651 {
+	font-size: 651px;
+}
+.yazi652 {
+	font-size: 652px;
+}
+.yazi653 {
+	font-size: 653px;
+}
+.yazi654 {
+	font-size: 654px;
+}
+.yazi655 {
+	font-size: 655px;
+}
+.yazi656 {
+	font-size: 656px;
+}
+.yazi657 {
+	font-size: 657px;
+}
+.yazi658 {
+	font-size: 658px;
+}
+.yazi659 {
+	font-size: 659px;
+}
+.yazi660 {
+	font-size: 660px;
+}
+.yazi661 {
+	font-size: 661px;
+}
+.yazi662 {
+	font-size: 662px;
+}
+.yazi663 {
+	font-size: 663px;
+}
+.yazi664 {
+	font-size: 664px;
+}
+.yazi665 {
+	font-size: 665px;
+}
+.yazi666 {
+	font-size: 666px;
+}
+.yazi667 {
+	font-size: 667px;
+}
+.yazi668 {
+	font-size: 668px;
+}
+.yazi669 {
+	font-size: 669px;
+}
+.yazi670 {
+	font-size: 670px;
+}
+.yazi671 {
+	font-size: 671px;
+}
+.yazi672 {
+	font-size: 672px;
+}
+.yazi673 {
+	font-size: 673px;
+}
+.yazi674 {
+	font-size: 674px;
+}
+.yazi675 {
+	font-size: 675px;
+}
+.yazi676 {
+	font-size: 676px;
+}
+.yazi677 {
+	font-size: 677px;
+}
+.yazi678 {
+	font-size: 678px;
+}
+.yazi679 {
+	font-size: 679px;
+}
+.yazi680 {
+	font-size: 680px;
+}
+.yazi681 {
+	font-size: 681px;
+}
+.yazi682 {
+	font-size: 682px;
+}
+.yazi683 {
+	font-size: 683px;
+}
+.yazi684 {
+	font-size: 684px;
+}
+.yazi685 {
+	font-size: 685px;
+}
+.yazi686 {
+	font-size: 686px;
+}
+.yazi687 {
+	font-size: 687px;
+}
+.yazi688 {
+	font-size: 688px;
+}
+.yazi689 {
+	font-size: 689px;
+}
+.yazi690 {
+	font-size: 690px;
+}
+.yazi691 {
+	font-size: 691px;
+}
+.yazi692 {
+	font-size: 692px;
+}
+.yazi693 {
+	font-size: 693px;
+}
+.yazi694 {
+	font-size: 694px;
+}
+.yazi695 {
+	font-size: 695px;
+}
+.yazi696 {
+	font-size: 696px;
+}
+.yazi697 {
+	font-size: 697px;
+}
+.yazi698 {
+	font-size: 698px;
+}
+.yazi699 {
+	font-size: 699px;
+}
+.yazi700 {
+	font-size: 700px;
+}
+.yazi701 {
+	font-size: 701px;
+}
+.yazi702 {
+	font-size: 702px;
+}
+.yazi703 {
+	font-size: 703px;
+}
+.yazi704 {
+	font-size: 704px;
+}
+.yazi705 {
+	font-size: 705px;
+}
+.yazi706 {
+	font-size: 706px;
+}
+.yazi707 {
+	font-size: 707px;
+}
+.yazi708 {
+	font-size: 708px;
+}
+.yazi709 {
+	font-size: 709px;
+}
+.yazi710 {
+	font-size: 710px;
+}
+.yazi711 {
+	font-size: 711px;
+}
+.yazi712 {
+	font-size: 712px;
+}
+.yazi713 {
+	font-size: 713px;
+}
+.yazi714 {
+	font-size: 714px;
+}
+.yazi715 {
+	font-size: 715px;
+}
+.yazi716 {
+	font-size: 716px;
+}
+.yazi717 {
+	font-size: 717px;
+}
+.yazi718 {
+	font-size: 718px;
+}
+.yazi719 {
+	font-size: 719px;
+}
+.yazi720 {
+	font-size: 720px;
+}
+.yazi721 {
+	font-size: 721px;
+}
+.yazi722 {
+	font-size: 722px;
+}
+.yazi723 {
+	font-size: 723px;
+}
+.yazi724 {
+	font-size: 724px;
+}
+.yazi725 {
+	font-size: 725px;
+}
+.yazi726 {
+	font-size: 726px;
+}
+.yazi727 {
+	font-size: 727px;
+}
+.yazi728 {
+	font-size: 728px;
+}
+.yazi729 {
+	font-size: 729px;
+}
+.yazi730 {
+	font-size: 730px;
+}
+.yazi731 {
+	font-size: 731px;
+}
+.yazi732 {
+	font-size: 732px;
+}
+.yazi733 {
+	font-size: 733px;
+}
+.yazi734 {
+	font-size: 734px;
+}
+.yazi735 {
+	font-size: 735px;
+}
+.yazi736 {
+	font-size: 736px;
+}
+.yazi737 {
+	font-size: 737px;
+}
+.yazi738 {
+	font-size: 738px;
+}
+.yazi739 {
+	font-size: 739px;
+}
+.yazi740 {
+	font-size: 740px;
+}
+.yazi741 {
+	font-size: 741px;
+}
+.yazi742 {
+	font-size: 742px;
+}
+.yazi743 {
+	font-size: 743px;
+}
+.yazi744 {
+	font-size: 744px;
+}
+.yazi745 {
+	font-size: 745px;
+}
+.yazi746 {
+	font-size: 746px;
+}
+.yazi747 {
+	font-size: 747px;
+}
+.yazi748 {
+	font-size: 748px;
+}
+.yazi749 {
+	font-size: 749px;
+}
+.yazi750 {
+	font-size: 750px;
+}
+.yazi751 {
+	font-size: 751px;
+}
+.yazi752 {
+	font-size: 752px;
+}
+.yazi753 {
+	font-size: 753px;
+}
+.yazi754 {
+	font-size: 754px;
+}
+.yazi755 {
+	font-size: 755px;
+}
+.yazi756 {
+	font-size: 756px;
+}
+.yazi757 {
+	font-size: 757px;
+}
+.yazi758 {
+	font-size: 758px;
+}
+.yazi759 {
+	font-size: 759px;
+}
+.yazi760 {
+	font-size: 760px;
+}
+.yazi761 {
+	font-size: 761px;
+}
+.yazi762 {
+	font-size: 762px;
+}
+.yazi763 {
+	font-size: 763px;
+}
+.yazi764 {
+	font-size: 764px;
+}
+.yazi765 {
+	font-size: 765px;
+}
+.yazi766 {
+	font-size: 766px;
+}
+.yazi767 {
+	font-size: 767px;
+}
+.yazi768 {
+	font-size: 768px;
+}
+.yazi769 {
+	font-size: 769px;
+}
+.yazi770 {
+	font-size: 770px;
+}
+.yazi771 {
+	font-size: 771px;
+}
+.yazi772 {
+	font-size: 772px;
+}
+.yazi773 {
+	font-size: 773px;
+}
+.yazi774 {
+	font-size: 774px;
+}
+.yazi775 {
+	font-size: 775px;
+}
+.yazi776 {
+	font-size: 776px;
+}
+.yazi777 {
+	font-size: 777px;
+}
+.yazi778 {
+	font-size: 778px;
+}
+.yazi779 {
+	font-size: 779px;
+}
+.yazi780 {
+	font-size: 780px;
+}
+.yazi781 {
+	font-size: 781px;
+}
+.yazi782 {
+	font-size: 782px;
+}
+.yazi783 {
+	font-size: 783px;
+}
+.yazi784 {
+	font-size: 784px;
+}
+.yazi785 {
+	font-size: 785px;
+}
+.yazi786 {
+	font-size: 786px;
+}
+.yazi787 {
+	font-size: 787px;
+}
+.yazi788 {
+	font-size: 788px;
+}
+.yazi789 {
+	font-size: 789px;
+}
+.yazi790 {
+	font-size: 790px;
+}
+.yazi791 {
+	font-size: 791px;
+}
+.yazi792 {
+	font-size: 792px;
+}
+.yazi793 {
+	font-size: 793px;
+}
+.yazi794 {
+	font-size: 794px;
+}
+.yazi795 {
+	font-size: 795px;
+}
+.yazi796 {
+	font-size: 796px;
+}
+.yazi797 {
+	font-size: 797px;
+}
+.yazi798 {
+	font-size: 798px;
+}
+.yazi799 {
+	font-size: 799px;
+}
+.yazi800 {
+	font-size: 800px;
+}
+.yazi801 {
+	font-size: 801px;
+}
+.yazi802 {
+	font-size: 802px;
+}
+.yazi803 {
+	font-size: 803px;
+}
+.yazi804 {
+	font-size: 804px;
+}
+.yazi805 {
+	font-size: 805px;
+}
+.yazi806 {
+	font-size: 806px;
+}
+.yazi807 {
+	font-size: 807px;
+}
+.yazi808 {
+	font-size: 808px;
+}
+.yazi809 {
+	font-size: 809px;
+}
+.yazi810 {
+	font-size: 810px;
+}
+.yazi811 {
+	font-size: 811px;
+}
+.yazi812 {
+	font-size: 812px;
+}
+.yazi813 {
+	font-size: 813px;
+}
+.yazi814 {
+	font-size: 814px;
+}
+.yazi815 {
+	font-size: 815px;
+}
+.yazi816 {
+	font-size: 816px;
+}
+.yazi817 {
+	font-size: 817px;
+}
+.yazi818 {
+	font-size: 818px;
+}
+.yazi819 {
+	font-size: 819px;
+}
+.yazi820 {
+	font-size: 820px;
+}
+.yazi821 {
+	font-size: 821px;
+}
+.yazi822 {
+	font-size: 822px;
+}
+.yazi823 {
+	font-size: 823px;
+}
+.yazi824 {
+	font-size: 824px;
+}
+.yazi825 {
+	font-size: 825px;
+}
+.yazi826 {
+	font-size: 826px;
+}
+.yazi827 {
+	font-size: 827px;
+}
+.yazi828 {
+	font-size: 828px;
+}
+.yazi829 {
+	font-size: 829px;
+}
+.yazi830 {
+	font-size: 830px;
+}
+.yazi831 {
+	font-size: 831px;
+}
+.yazi832 {
+	font-size: 832px;
+}
+.yazi833 {
+	font-size: 833px;
+}
+.yazi834 {
+	font-size: 834px;
+}
+.yazi835 {
+	font-size: 835px;
+}
+.yazi836 {
+	font-size: 836px;
+}
+.yazi837 {
+	font-size: 837px;
+}
+.yazi838 {
+	font-size: 838px;
+}
+.yazi839 {
+	font-size: 839px;
+}
+.yazi840 {
+	font-size: 840px;
+}
+.yazi841 {
+	font-size: 841px;
+}
+.yazi842 {
+	font-size: 842px;
+}
+.yazi843 {
+	font-size: 843px;
+}
+.yazi844 {
+	font-size: 844px;
+}
+.yazi845 {
+	font-size: 845px;
+}
+.yazi846 {
+	font-size: 846px;
+}
+.yazi847 {
+	font-size: 847px;
+}
+.yazi848 {
+	font-size: 848px;
+}
+.yazi849 {
+	font-size: 849px;
+}
+.yazi850 {
+	font-size: 850px;
+}
+.yazi851 {
+	font-size: 851px;
+}
+.yazi852 {
+	font-size: 852px;
+}
+.yazi853 {
+	font-size: 853px;
+}
+.yazi854 {
+	font-size: 854px;
+}
+.yazi855 {
+	font-size: 855px;
+}
+.yazi856 {
+	font-size: 856px;
+}
+.yazi857 {
+	font-size: 857px;
+}
+.yazi858 {
+	font-size: 858px;
+}
+.yazi859 {
+	font-size: 859px;
+}
+.yazi860 {
+	font-size: 860px;
+}
+.yazi861 {
+	font-size: 861px;
+}
+.yazi862 {
+	font-size: 862px;
+}
+.yazi863 {
+	font-size: 863px;
+}
+.yazi864 {
+	font-size: 864px;
+}
+.yazi865 {
+	font-size: 865px;
+}
+.yazi866 {
+	font-size: 866px;
+}
+.yazi867 {
+	font-size: 867px;
+}
+.yazi868 {
+	font-size: 868px;
+}
+.yazi869 {
+	font-size: 869px;
+}
+.yazi870 {
+	font-size: 870px;
+}
+.yazi871 {
+	font-size: 871px;
+}
+.yazi872 {
+	font-size: 872px;
+}
+.yazi873 {
+	font-size: 873px;
+}
+.yazi874 {
+	font-size: 874px;
+}
+.yazi875 {
+	font-size: 875px;
+}
+.yazi876 {
+	font-size: 876px;
+}
+.yazi877 {
+	font-size: 877px;
+}
+.yazi878 {
+	font-size: 878px;
+}
+.yazi879 {
+	font-size: 879px;
+}
+.yazi880 {
+	font-size: 880px;
+}
+.yazi881 {
+	font-size: 881px;
+}
+.yazi882 {
+	font-size: 882px;
+}
+.yazi883 {
+	font-size: 883px;
+}
+.yazi884 {
+	font-size: 884px;
+}
+.yazi885 {
+	font-size: 885px;
+}
+.yazi886 {
+	font-size: 886px;
+}
+.yazi887 {
+	font-size: 887px;
+}
+.yazi888 {
+	font-size: 888px;
+}
+.yazi889 {
+	font-size: 889px;
+}
+.yazi890 {
+	font-size: 890px;
+}
+.yazi891 {
+	font-size: 891px;
+}
+.yazi892 {
+	font-size: 892px;
+}
+.yazi893 {
+	font-size: 893px;
+}
+.yazi894 {
+	font-size: 894px;
+}
+.yazi895 {
+	font-size: 895px;
+}
+.yazi896 {
+	font-size: 896px;
+}
+.yazi897 {
+	font-size: 897px;
+}
+.yazi898 {
+	font-size: 898px;
+}
+.yazi899 {
+	font-size: 899px;
+}
+.yazi900 {
+	font-size: 900px;
+}
+.yazi901 {
+	font-size: 901px;
+}
+.yazi902 {
+	font-size: 902px;
+}
+.yazi903 {
+	font-size: 903px;
+}
+.yazi904 {
+	font-size: 904px;
+}
+.yazi905 {
+	font-size: 905px;
+}
+.yazi906 {
+	font-size: 906px;
+}
+.yazi907 {
+	font-size: 907px;
+}
+.yazi908 {
+	font-size: 908px;
+}
+.yazi909 {
+	font-size: 909px;
+}
+.yazi910 {
+	font-size: 910px;
+}
+.yazi911 {
+	font-size: 911px;
+}
+.yazi912 {
+	font-size: 912px;
+}
+.yazi913 {
+	font-size: 913px;
+}
+.yazi914 {
+	font-size: 914px;
+}
+.yazi915 {
+	font-size: 915px;
+}
+.yazi916 {
+	font-size: 916px;
+}
+.yazi917 {
+	font-size: 917px;
+}
+.yazi918 {
+	font-size: 918px;
+}
+.yazi919 {
+	font-size: 919px;
+}
+.yazi920 {
+	font-size: 920px;
+}
+.yazi921 {
+	font-size: 921px;
+}
+.yazi922 {
+	font-size: 922px;
+}
+.yazi923 {
+	font-size: 923px;
+}
+.yazi924 {
+	font-size: 924px;
+}
+.yazi925 {
+	font-size: 925px;
+}
+.yazi926 {
+	font-size: 926px;
+}
+.yazi927 {
+	font-size: 927px;
+}
+.yazi928 {
+	font-size: 928px;
+}
+.yazi929 {
+	font-size: 929px;
+}
+.yazi930 {
+	font-size: 930px;
+}
+.yazi931 {
+	font-size: 931px;
+}
+.yazi932 {
+	font-size: 932px;
+}
+.yazi933 {
+	font-size: 933px;
+}
+.yazi934 {
+	font-size: 934px;
+}
+.yazi935 {
+	font-size: 935px;
+}
+.yazi936 {
+	font-size: 936px;
+}
+.yazi937 {
+	font-size: 937px;
+}
+.yazi938 {
+	font-size: 938px;
+}
+.yazi939 {
+	font-size: 939px;
+}
+.yazi940 {
+	font-size: 940px;
+}
+.yazi941 {
+	font-size: 941px;
+}
+.yazi942 {
+	font-size: 942px;
+}
+.yazi943 {
+	font-size: 943px;
+}
+.yazi944 {
+	font-size: 944px;
+}
+.yazi945 {
+	font-size: 945px;
+}
+.yazi946 {
+	font-size: 946px;
+}
+.yazi947 {
+	font-size: 947px;
+}
+.yazi948 {
+	font-size: 948px;
+}
+.yazi949 {
+	font-size: 949px;
+}
+.yazi950 {
+	font-size: 950px;
+}
+.yazi951 {
+	font-size: 951px;
+}
+.yazi952 {
+	font-size: 952px;
+}
+.yazi953 {
+	font-size: 953px;
+}
+.yazi954 {
+	font-size: 954px;
+}
+.yazi955 {
+	font-size: 955px;
+}
+.yazi956 {
+	font-size: 956px;
+}
+.yazi957 {
+	font-size: 957px;
+}
+.yazi958 {
+	font-size: 958px;
+}
+.yazi959 {
+	font-size: 959px;
+}
+.yazi960 {
+	font-size: 960px;
+}
+.yazi961 {
+	font-size: 961px;
+}
+.yazi962 {
+	font-size: 962px;
+}
+.yazi963 {
+	font-size: 963px;
+}
+.yazi964 {
+	font-size: 964px;
+}
+.yazi965 {
+	font-size: 965px;
+}
+.yazi966 {
+	font-size: 966px;
+}
+.yazi967 {
+	font-size: 967px;
+}
+.yazi968 {
+	font-size: 968px;
+}
+.yazi969 {
+	font-size: 969px;
+}
+.yazi970 {
+	font-size: 970px;
+}
+.yazi971 {
+	font-size: 971px;
+}
+.yazi972 {
+	font-size: 972px;
+}
+.yazi973 {
+	font-size: 973px;
+}
+.yazi974 {
+	font-size: 974px;
+}
+.yazi975 {
+	font-size: 975px;
+}
+.yazi976 {
+	font-size: 976px;
+}
+.yazi977 {
+	font-size: 977px;
+}
+.yazi978 {
+	font-size: 978px;
+}
+.yazi979 {
+	font-size: 979px;
+}
+.yazi980 {
+	font-size: 980px;
+}
+.yazi981 {
+	font-size: 981px;
+}
+.yazi982 {
+	font-size: 982px;
+}
+.yazi983 {
+	font-size: 983px;
+}
+.yazi984 {
+	font-size: 984px;
+}
+.yazi985 {
+	font-size: 985px;
+}
+.yazi986 {
+	font-size: 986px;
+}
+.yazi987 {
+	font-size: 987px;
+}
+.yazi988 {
+	font-size: 988px;
+}
+.yazi989 {
+	font-size: 989px;
+}
+.yazi990 {
+	font-size: 990px;
+}
+.yazi991 {
+	font-size: 991px;
+}
+.yazi992 {
+	font-size: 992px;
+}
+.yazi993 {
+	font-size: 993px;
+}
+.yazi994 {
+	font-size: 994px;
+}
+.yazi995 {
+	font-size: 995px;
+}
+.yazi996 {
+	font-size: 996px;
+}
+.yazi997 {
+	font-size: 997px;
+}
+.yazi998 {
+	font-size: 998px;
+}
+.yazi999 {
+	font-size: 999px;
+}
+.yazi1000 {
+	font-size: 1000px;
+}
